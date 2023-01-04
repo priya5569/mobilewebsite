@@ -1,0 +1,25 @@
+body{
+	font-family: Roboto;
+}
+.bgimg3{
+	background-image: url('https://cdn.mos.cms.futurecdn.net/ritx9zUhQgUJ7fVo4DxNUK.jpg');
+	background-size: cover;
+	height: 200vh;
+}
+.layoutcard3{
+    background-color: white;
+    border-radius: 12px;
+    margin: 100px;    
+}
+.parasecond{
+   padding: 30px;
+}
+
+.headsecond{
+	padding-left: 30px;
+}
+.headline{
+	padding-left: 20px;
+	color: #31586b;
+	font-weight: bold;
+}

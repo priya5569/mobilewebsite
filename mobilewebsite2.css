@@ -1,0 +1,33 @@
+body{
+	font-family: Roboto;
+}
+
+.bgimg2{
+	background-image: url('https://media.istockphoto.com/id/1221025677/photo/abstract-blue-background-minimal-geometric-background-for-use-in-design.jpg?b=1&s=170667a&w=0&k=20&c=GQ8738yB4Z4N5CL_CgmIorvl9nTOXFTvgZYCV3trRHE=');
+	background-size:cover;
+	height: 150vh;
+}
+.mobilehead{
+	font-family: Roboto;
+	font-weight: bolder;
+	color: floralwhite;
+	font-size: 35px;
+	padding: 25px;
+}
+.layoutcard2{
+	background-color: whitesmoke;
+	border-radius: 8px;
+	padding: 10px;
+	margin: 18px;
+}
+.brandsimg{
+	width: 120px;
+	height: 120px;
+}
+.brandshead{
+	font-weight: bold;
+	color: black;
+}
+button{
+	width: 200px;
+}

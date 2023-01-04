@@ -1,0 +1,24 @@
+body{
+	font-family: Roboto;
+}
+.bgimage{
+	background-image: url('https://s.yimg.com/os/creatr-uploaded-images/2022-04/3bcd86b0-b99a-11ec-b77f-3588088aa8d4');
+	background-size: cover;
+	height: 200vh;
+}
+.layoutcard4{
+	background-color: white;
+	border-radius: 12px;
+	margin: 100px;
+}
+.parasecond{
+    padding: 20px;
+}
+.headsecond{
+	padding-left: 20px;
+}
+.headline{
+	color: white;
+	font-weight: bold;
+	padding-left: 20px;
+}

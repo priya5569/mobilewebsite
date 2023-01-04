@@ -1,0 +1,25 @@
+body{
+	font-family: Roboto;
+}
+.bgimg3{
+	background-image: url('https://images.samsung.com/in/smartphones/galaxy-z-fold3-5g/buy/zfold3_carousel_multitasking_kv_mo.jpg');
+	background-size: cover;
+	height: 220vh;
+}
+.layoutcard5{
+    background-color: white;
+    border-radius: 12px;
+    margin: 100px;    
+}
+.parasecond{
+   padding: 30px;
+}
+
+.headsecond{
+	padding-left: 30px;
+}
+.headline{
+	padding-left: 20px;
+	color: white;
+	font-weight: bold;
+}

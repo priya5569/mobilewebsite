@@ -1,0 +1,25 @@
+body{
+	font-family: Roboto;
+}
+.bgimg3{
+	background-image: url('https://image01.realme.net/general/20220919/1663594145177.jpg');
+	background-size: cover;
+	height: 220vh;
+}
+.layoutcard6{
+    background-color: white;
+    border-radius: 12px;
+    margin: 100px;    
+}
+.parasecond{
+   padding: 20px;
+}
+
+.headsecond{
+	padding-left: 30px;
+}
+.headline{
+	padding-left: 20px;
+	color: black;
+	font-weight: bold;
+}
